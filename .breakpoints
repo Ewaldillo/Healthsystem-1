@@ -1,0 +1,20 @@
+{
+  "files": {
+    "HealthSystem": [
+      {
+        "id": "614f2afe-19c5-4c8f-be0d-66457fd46189",
+        "line": 1,
+        "version": 0,
+        "index": 0
+      }
+    ],
+    "Main.java": [
+      {
+        "id": "62da7712-f7a7-4790-801c-276d530d6a49",
+        "line": 1,
+        "version": 6,
+        "index": 0
+      }
+    ]
+  }
+}
